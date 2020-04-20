@@ -1,6 +1,6 @@
 <!-- This issue tracker is only for technical issues related to reference implementation of the Paercoin.
 
-General Pearcoin questions and/or support requests are best directed to the Pearcoin Forum: https://meet.peercoin.com/.
+General Pearcoin questions and/or support requests are best directed to the Pearcoin Forum: https://meet.pearcoin.com/.
 
 <!-- Describe the issue -->
 <!--- What behavior did you expect? -->
